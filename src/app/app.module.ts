@@ -13,9 +13,7 @@ import { FooterComponent } from './home/footer/footer.component';
   declarations: [
     AppComponent,
     HeaderComponent,
-    FooterComponent,
-   
- 
+    FooterComponent
   ],
 
   imports: [
