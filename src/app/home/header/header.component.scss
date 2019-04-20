@@ -1,0 +1,20 @@
+nav{
+    justify-content: center;
+}
+.navbar{
+    height: 60px;
+    box-shadow: 0px 2px 4px rgba(127, 127, 127, 0.25);    
+}
+.homeIcon{
+    height: 50px;
+    width: 50px;
+}
+.modal-content{
+    margin-top: 180px;
+}
+.modal-content input{
+    height: 50px;
+}
+.dropdown-toggle::after {
+    display:none;
+}

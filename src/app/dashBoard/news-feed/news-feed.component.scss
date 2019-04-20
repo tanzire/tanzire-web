@@ -1,0 +1,40 @@
+input{
+    align-items: center;
+    // border-color: transparent;
+    align-content: initial
+}
+// .btn {
+//     background-color: gray; /* Green */
+//     border: none;
+
+//     color:black;
+//     padding: 10px 20px;
+//     text-align: center;
+//     text-decoration: none;
+//     display: inline-block;
+//     font-size: 15px;
+//     border-radius: 12px;
+//   }
+  .newsFeedInput{
+      height: 30px;
+    //   align-self: center;
+  }
+  .cardLRM{
+      margin-right: 100px;
+    margin-left: 100px;
+    }
+    .profileImgS{
+        height: 50px;
+        width: 50px;
+    }
+    .posts .card-body{
+        padding: 0;
+    }
+    .card-footer{
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .card-header{
+        margin-left: 0%;
+        margin-right: 0%;
+    }

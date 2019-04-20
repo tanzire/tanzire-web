@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70" style="width: 100%; height: 100%;"><desc>Made with illustrio</desc>
+  
+<g class="base"><g fill="none" fill-rule="evenodd" stroke="none" class="main-stroke">
+    
+    <path fill="none" d="M23.8145833,0 L2.98958333,0 C1.35333333,0 0.0145833333,1.33875 0.0145833333,2.975 L0.0145833333,23.8 C0.0145833333,25.43625 1.35333333,26.775 2.98958333,26.775 L8.93958333,26.775 L13.4020833,31.2375 L17.8645833,26.775 L23.8145833,26.775 C25.4508333,26.775 26.7895833,25.43625 26.7895833,23.8 L26.7895833,2.975 C26.7895833,1.33875 25.4508333,0 23.8145833,0 L23.8145833,0 Z M14.8895833,23.8 L11.9145833,23.8 L11.9145833,20.825 L14.8895833,20.825 L14.8895833,23.8 L14.8895833,23.8 Z M18.0133333,12.34625 L16.6745833,13.685 C15.4846417,14.72625 14.8895833,15.61875 14.8895833,17.85 L11.9145833,17.85 L11.9145833,17.10625 C11.9145833,15.47 12.5095833,13.9825 13.6995833,12.94125 L15.4846417,11.0075 C16.0796417,10.56125 16.3771417,9.8175 16.3771417,8.925 C16.3771417,7.28875 15.0383917,5.95 13.4021417,5.95 C11.7658917,5.95 10.4271417,7.28875 10.4271417,8.925 L7.45214167,8.925 C7.45214167,5.6525 10.1296417,2.975 13.4021417,2.975 C16.6746417,2.975 19.3521417,5.6525 19.3521417,8.925 C19.3520833,10.26375 18.7570833,11.45375 18.0133333,12.34625 L18.0133333,12.34625 Z" transform="translate(21.583 19.367)" stroke="none" class="main-stroke"></path>
+  </g></g><style>
+          .main-fill {fill: #BEA2A1;}
+          .main-stroke {stroke: #BEA2A1;}
+          .secondary-fill {fill: #ffffff;}
+          .secondary-stroke {stroke: #ffffff;}
+
+          .main-fill--darken {fill: #9f7574;}
+          .main-stroke--darken {stroke: #9f7574;}
+          .secondary-fill--darken {fill: #d9d9d9;}
+          .secondary-stroke--darken {stroke: #d9d9d9;}
+
+          .main-fill--darkener {fill: #845d5b;}
+          .main-stroke--darkener {stroke: #845d5b;}
+          .secondary-fill--darkener {fill: #bfbfbf;}
+          .secondary-stroke--darkener {stroke: #bfbfbf;}
+        </style></svg>

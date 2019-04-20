@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+@import url('https://db.onlinewebfonts.com/c/8c4531889fd0130577235dc03699df88?family=ActaDisplayW01-Medium');
+a{
+    text-decoration: none !important; 
+    color: black;
+}
+.btnP{
+    background-color: #bea2a1 !important;
+    color: white;
+}
+.btnS{
+    background-color: transparent;
+    border: 1px solid #bea2a1;
+}
+.bgColor{
+    background-color: #edc7b7;
+}
+.bgColor1{
+    background-color: #f4e8e3;
+}
+h1,h2,h3,h4,h5,h6,span,p{
+    font-family: 'open sans';
+}
+.logo{
+    height: 80px;
+    font-weight: 60px;
+}
+.proIcon{
+    height: 60px;
+    width: 60px;
+}
+.heading{
+    font-size: 18px;
+    font-weight: 500;
+}
+.activeColor{
+    background-color: #bea2a1 !important;
+}
+.lineBreak{
+    margin-bottom: 2%;
+    margin-top: 5%;
+}
+.lineBreak hr{
+    border: 2px solid #edc7b7;
+}
+.lineBreak h6{
+    font-family: 'ActaDisplayW01-Medium';
+    font-size: 24px;
+}
+.bgLight{
+    background-color: #f3f3f3;
+}
+
+
+
+

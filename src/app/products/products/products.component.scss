@@ -1,0 +1,44 @@
+.nav li{
+    font-size: 18px;
+    font-weight: 400 !important;
+    margin: 20px;
+}
+.card .card-img-top{
+    border-radius: 0% !important;
+}
+.card-body{
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+.icon img{
+    height: 50px;
+    width: 50px
+}
+h5{
+    font-size: 16px;
+    font-weight: 800;
+}
+h6{
+    font-size: 15px;
+    font-weight: 700
+}
+.banner{
+    height: 200px;
+}
+.banner button{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px !important;
+    font-family: 'ActaDisplayW01-Medium';
+    font-size: 25px;
+}
+.banner a{
+    font-weight: 600;
+    color: #333;
+}
+.products{
+    margin-right: 100px;
+}
+.tags{
+    color: black !important;
+}

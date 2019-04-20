@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70" style="width: 100%; height: 100%;"><desc>Made with illustrio</desc>
+  
+<g class="base"><g fill="none" fill-rule="evenodd" stroke="none" class="main-fill">
+    
+    
+  </g><g fill="none" transform="translate(19.09 24.182)" stroke="none" class="main-fill">
+      <polygon points="30.918 0 .9 0 15.909 15.009" fill="none" stroke="none" class="main-fill"></polygon>
+      <path d="M16.359,16.359 C16.2349091,16.4830909 16.072,16.5454545 15.9090909,16.5454545 C15.7461818,16.5454545 15.5832727,16.4830909 15.4591818,16.359 L0,0.899818182 L0,21 C0,21.3519091 0.285090909,21.6363636 0.636363636,21.6363636 L31.1818182,21.6363636 C31.5337273,21.6363636 31.8181818,21.3519091 31.8181818,21 L31.8181818,0.899818182 L16.359,16.359 L16.359,16.359 Z" fill="none" stroke="none" class="main-fill"></path>
+    </g></g><style>
+          .main-fill {fill: #BEA2A1;}
+          .main-stroke {stroke: #BEA2A1;}
+          .secondary-fill {fill: #f9ffff;}
+          .secondary-stroke {stroke: #f9ffff;}
+
+          .main-fill--darken {fill: #9f7574;}
+          .main-stroke--darken {stroke: #9f7574;}
+          .secondary-fill--darken {fill: #acffff;}
+          .secondary-stroke--darken {stroke: #acffff;}
+
+          .main-fill--darkener {fill: #845d5b;}
+          .main-stroke--darkener {stroke: #845d5b;}
+          .secondary-fill--darkener {fill: #79ffff;}
+          .secondary-stroke--darkener {stroke: #79ffff;}
+        </style></svg>

@@ -1,0 +1,31 @@
+h6{
+    font-size: 14px;
+    font-weight: 700
+}
+h5{
+    font-size: 15px;
+    font-weight: 600;
+}
+.review  img{
+    object-fit: cover;
+}
+.comment img{
+    object-fit: cover;
+}
+.commentbox{
+    border-radius: 15px !important;
+}
+.send {
+    background-color: #bea2a1 !important;
+    color: white !important;
+    height: 30px !important;
+    width: 100px !important;
+    padding: inherit;
+}
+.clear{
+    background-color: transparent;
+    border: 1px solid #bea2a1;
+    height: 30px !important;
+    width: 100px !important;
+    padding: inherit;
+}

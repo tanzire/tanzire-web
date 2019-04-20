@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70" style="width: 100%; height: 100%;"><desc>Made with illustrio</desc>
+  
+<g class="base"><g fill="none" fill-rule="evenodd" stroke="none" class="main-fill">
+    
+    
+    <path fill="none" d="M12.7647088,0.149128824 C5.72470994,0.149128824 2.88235294e-06,5.87384 2.88235294e-06,12.9138347 C2.88235294e-06,19.9538294 5.72470994,25.6785529 12.7647088,25.6785529 C14.6407129,25.6785529 16.4218011,25.2629176 18.0275599,24.5333118 L24.2941246,34.3256118 C24.6768188,34.9888824 25.1654599,35.5609059 25.9411835,35.5609059 C27.1427541,35.5609059 28.000007,34.7429765 28.000007,33.5020824 C28.007007,33.1546353 27.7752658,32.5909706 27.5882423,32.2667882 L21.2830952,22.4101706 C23.8888658,20.0717176 25.5294188,16.6834624 25.5294188,12.9138347 C25.5294188,5.87383588 19.8046952,0.149128824 12.7647088,0.149128824 Z M12.7647088,1.79618765 C18.9145835,1.79618765 23.8823599,6.76397235 23.8823599,12.9138347 C23.8823599,19.0636765 18.9145835,24.0314941 12.7647088,24.0314941 C6.61485053,24.0314941 1.64706171,19.0636765 1.64706171,12.9138347 C1.64706171,6.76397647 6.61485053,1.79618765 12.7647088,1.79618765 Z" transform="translate(21 17.145)" stroke="none" class="main-fill"></path>
+  </g></g><style>
+          .main-fill {fill: #000000;}
+          .main-stroke {stroke: #000000;}
+          .secondary-fill {fill: #fcfff9;}
+          .secondary-stroke {stroke: #fcfff9;}
+
+          .main-fill--darken {fill: #000000;}
+          .main-stroke--darken {stroke: #000000;}
+          .secondary-fill--darken {fill: #d6ffac;}
+          .secondary-stroke--darken {stroke: #d6ffac;}
+
+          .main-fill--darkener {fill: #000000;}
+          .main-stroke--darkener {stroke: #000000;}
+          .secondary-fill--darkener {fill: #bcff79;}
+          .secondary-stroke--darkener {stroke: #bcff79;}
+        </style></svg>

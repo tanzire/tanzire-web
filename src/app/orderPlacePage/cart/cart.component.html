@@ -1,0 +1,16 @@
+<div class="container mt-4">
+  <div class="row justify-content-center">
+    <button routerLink="/cartitem" routerLinkActive="activeColor" class="btn bgcolor shoppingBag ">Shopping bag</button>
+    <button routerLink="/shipping&Payment" routerLinkActive="activeColor" class="btn bgColor shipping">Shipping & Payment</button>
+    <button routerLink="#" routerLinkActive="activeColor" class="btn bgColor order ">Order status</button>
+  </div>
+  <div class="mt-5">
+      <router-outlet></router-outlet>
+  </div>
+  <div class="mt-5">
+      <app-product-recommendations></app-product-recommendations>
+  </div>
+  <div class="mt-5">
+      <app-wishlist></app-wishlist>
+  </div>
+</div>

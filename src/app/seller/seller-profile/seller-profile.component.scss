@@ -1,0 +1,65 @@
+.profileCover img{
+    height: 235px;
+    width: 100%;
+    box-shadow: inset 0px -40px 30px rgba(0, 0, 0, 0.25);
+}
+.profile{
+    background-color: #f3f3f3;
+}
+.profile img{
+    height: 160px;
+    width: 160px;
+    margin-top: -80px;
+    border: 2px solid #E3E3E3;
+    box-sizing: border-box;
+}
+.row{
+    margin-left: 0%;
+    margin-right: 0%;
+   
+}
+.post hr{
+    border: 2px solid #edc7b7 !important;
+}
+.post h6{
+    font-size: 20px !important;
+    font-family: 'ActaDisplayW01-Medium';
+}
+.col{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.profileImgS{
+    height: 50px;
+    width: 50px;
+}
+.posts .card-body{
+    padding: 0;
+}
+span{
+    font-weight: 600 !important;
+    // font-size: 12px;
+}
+.profile hr{
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+h6{
+    font-size: 14px !important;
+    font-weight: 600 !important;
+}
+.like img{
+    height: 40px;
+    width: 40px;
+}
+.likeShare img{
+    height: 40px;
+    width: 40px;
+}
+.card .card-header{
+    padding: 8px;
+}
+h4{
+    font-family: 'ActaDisplayW01-Medium';
+    font-size: 24px;
+}
