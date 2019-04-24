@@ -11,7 +11,7 @@
        <div class="col-3 my-auto">
           <div class="row">
              <div class="col-4 text-center">
-                <ul class="list-unstyled mr-2">
+                <ul class="list-unstyled">
                    <a class="nav-link" data-toggle="modal" data-target=".bd-example-modal-xl">
                       <li><img class="homeIcon" src="../../assets/images/inquiry-S1P9RV1FV.svg" alt="Search"></li>
                       <li>Search</li>
@@ -21,6 +21,9 @@
                       <div class="modal-dialog modal-xl">
                          <div class="modal-content">
                             <div class="input-group">
+                              <div class="input-group-append">
+                                <button class="btn" type="button" data-dismiss="modal" id="button-addon2">Back</button>
+                              </div>
                                <input placeholder="Search for product, Designer, Profile etc" type="text" class="form-control" id="recipient-name">
                                <div class="input-group-append">
                                   <button class="btn" type="button" id="button-addon2">Search</button>
@@ -33,20 +36,20 @@
              </div>
              <div class="col-4 text-center dropdown show">
                 <a  class="dropdown-toggle"   id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                   <ul class="list-unstyled mr-2 mt-2">
+                   <ul class="list-unstyled mt-2">
                       <li><img class="homeIcon" src="../../assets/images/character-ryQACV1KN.svg" alt="Profile"></li>
                       <li class="nav-item active" >Profile</li>
                    </ul>
-                   <div class="dropdown-menu">
+                   <div class="dropdown-menu text-center">
                 <a class="dropdown-item" routerLink="/dashboardpage">DashBoard</a>
                 <a class="dropdown-item" routerLink="/profile">Profile</a>
                 <a class="dropdown-item" href="#">Settings</a>
                 </div>
                 </a>
              </div>
-             <div class="col-4 text-left">
+             <div class="col-4">
                 <a>
-                   <ul class="list-unstyled mr-2">
+                   <ul class="list-unstyled mt-2 text-center">
                       <li><img class="homeIcon" src="../../assets/images/Bag-ByOHyH1FV.svg" alt=""></li>
                       <li>Bag</li>
                    </ul>
@@ -81,8 +84,7 @@
           <a class="nav-link" routerLink="/Home/sProfile" >Sale <span class="sr-only">(current)</span></a>
        </li>
        <li class="nav-item">
-          <a class="nav-link" href="#">Explor <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="#">Explore <span class="sr-only">(current)</span></a>
        </li>
     </ul>
  </nav>
- 

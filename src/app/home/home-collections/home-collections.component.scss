@@ -20,10 +20,17 @@
     height: 400px;
     object-fit: cover
 }
-p{
-    font-size: 18px;
-    font-weight: 600;
+
+.border {
+    border: 3px solid #fbc9c4 !important;
+    margin: 0px 0px 0px -100px; 
+    padding: 100px 50px;
 }
+
+.border h3 {
+    font-family: 'ActaDisplayW01-Medium';
+}
+
 
 
 
